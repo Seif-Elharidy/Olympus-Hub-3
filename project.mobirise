@@ -1,0 +1,276 @@
+{
+  "settings": {
+    "currentPage": "Olympus Hub",
+    "name": "Olympus Hub",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#efefef",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Raleway",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 27,
+    "versionPublish": "3.9.2",
+    "favicon": "@PROJECT_PATH@/assets/images/apollo-128x72-63.png",
+    "noImageResize": "",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "Olympus Hub": {
+      "settings": {
+        "main": true,
+        "title": "The Olypians Homepage",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/oh-logo-final-lg-bk-on-trans-128x128-89.png",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "45",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Olympus Hub</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.google.com/?gws_rd=ssl\">Google</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Websites</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/\">Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/?lang=en\">Twitter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.icloud.com/\">Icloud</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Emails</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mail.google.com/mail/u/0/#inbox/15866770b63ede10\">Gmail</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://login.yahoo.com/?.src=ym&amp;.intl=us&amp;.lang=en-US&amp;.done=https%3a//mail.yahoo.com\">Yahoo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.icloud.com/\">icloud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://outlook.live.com/owa/\">Microsoft</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#c2af8f",
+              "font-size": "48px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/golden-sky-2000x1250-36.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "link": "https://www.youtube.com/watch?v=kAgpPEY6JJM",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=kAgpPEY6JJM",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "Welcome to<br>Olympus",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 23px;\"></span>Youtube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.webschool.sabis.net\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; SABIS &nbsp; &nbsp;</a> "
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "youtube": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+            "facebook": "TEDEducation",
+            "twitter": "wallpapermag",
+            "google": "Jason Bouwmeester",
+            "postToLoad": "10",
+            "bgImage": "@PROJECT_PATH@/assets/images/gears-2000x1125-80.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#8e7348",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          }
+        },
+        {
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F202794316",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-n",
+          "_params": {
+            "sound": "https://soundcloud.com/aventry/felicity-aventry-hello-goobye-ft-johnning-1",
+            "autoplay": false,
+            "fullWidth": false
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F202794316&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Olympus Personal",
+          "_styles": {
+            "P": {
+              "color": "#c0a375",
+              "text-align": "right"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
